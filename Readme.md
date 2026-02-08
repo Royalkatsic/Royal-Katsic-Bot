@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TAYYAB+HELL-MD;CREATED+BY+TAYYAB+EXPLOITS;A+MULTI+DEVICE+WHATSAPP+BOT;UNLIMITED+USAGE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=ROAYAL+KATSIC-BOT;CREATED+BY+ROYAL+KATSIC;A+MULTI+DEVICE+WHATSAPP+BOT;UNLIMITED+USAGE" alt="Animated Typing SVG" />
 </p>
 
 
 
-![Bot Image](https://raw.githubusercontent.com/TAYYAB-Exploits/TAYYAB-HellBot/main/media/HELL.jpg)
+![Bot Image](https://raw.githubusercontent.com/Royalkatsic/Royal-Katsic-Bot/main/media/IMG-20230907-WA0070.jpg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-Welcome to **TAYYAB HELL-BOT**, a powerful WhatsApp Termux bot developed by **Tayyab Exploits**. 🚀  
+Welcome to **ROYAL KATSIC-BOT**, a powerful WhatsApp Termux bot developed by **Royal Katsic**. 🚀  
 This bot is fully tested on Termux, Linux (Kali, Ubuntu), Panels, and other terminal environments.  
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## 🌟 About TAYYAB HELL-BOT
+## 🌟 ABOUT ROYAL KATSIC BOT
 
-TAYYAB HELL-BOT is a fully loaded WhatsApp bot offering **222+ commands** for automation, media handling, fun utilities, group management, and more.  
+ROYAL KATSIC-BOT is a fully loaded WhatsApp bot offering **222+ commands** for automation, media handling, fun utilities, group management, and more.  
 Whether you want **auto typing, media download, group management**, or just **fun text games**, this bot has it all.  
 
 **Perfect for**: Termux users, Linux enthusiasts, developers, and bot lovers who want a full-featured WhatsApp bot.  
