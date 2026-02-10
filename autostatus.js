@@ -58,7 +58,7 @@ module.exports = async function ({ conn, m, reply, args, isGroup, jid }) {
 ┃ Status: ${toggle === "on" ? "🟢 ENABLED" : "🔴 DISABLED"}
 ┃ 
 ┃ ✨ Now bot will ${toggle === "on" ? "*auto-watch all statuses*" : "*ignore statuses*"}!
-┃ 💜 Powered by: Tayyab Exploits
+┃ 💜 Powered by: ROYAL KATSIC BOT
 ╰━━━━━━━━━━━━━━━━━━━╯`
     );
 
