@@ -1,5 +1,5 @@
 // 📂 File: kick.js
-// ☠️ Kick Command - TAYYAB HELL-MD (Baileys-based)
+// ☠️ Kick Command - ROYAL KATSIC BOT (Baileys-based)
 
 // Export main command function
 module.exports = async function kick({ conn, m, args, reply }) {
@@ -116,3 +116,4 @@ module.exports.help = {
   usage: '.kick (reply to user)',
   description: 'Reply par jo user ho use group se remove karega (admin only).'
 };
+
