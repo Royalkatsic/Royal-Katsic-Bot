@@ -29,7 +29,7 @@ async function startBot() {
 
   global.sock = sock;
   global.settings = settings;
-  global.signature = settings.signature || "> 𝗧𝗔𝗬𝗬𝗔𝗕 ❦ ✓";
+  global.signature = settings.signature || "> ROYAL KATSIC ❦ ✓";
   global.owner = ownerJid;
   global.ownerNumber = ownerRaw;
 
@@ -201,7 +201,7 @@ async function startBot() {
 『 ${groupDesc} 』
 
 💀 *Attitude ON, Rules OFF*  
-👾 *TAYYAB HELL-MD welcomes you with POWER* ⚡
+👾 *TROYAL KATSIC BOT welcomes you with POWER* ⚡
           `;
         } else if (action === "remove") {
           message = `
