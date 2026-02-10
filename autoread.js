@@ -1,6 +1,5 @@
 // 📂 File: autoread.js
-// ☠️ AutoRead Command - TAYYAB HELL-MD
-
+// ☠️ AutoRead Command - ROYAL KATSIC BOT
 let autoReadEnabled = false; // Default OFF
 
 module.exports = async function autoread({ conn, m, args, reply }) {
@@ -14,7 +13,7 @@ module.exports = async function autoread({ conn, m, args, reply }) {
 ┃   .autoread on   → Enable
 ┃   .autoread off  → Disable
 ┃ 
-┃ 💜 Powered by: Tayyab Exploits
+┃ 💜 Powered by: ROYAL KATSIC BOT
 ╰━━━━━━━━━━━━━━━━━━━╯`
       );
     }
@@ -28,7 +27,7 @@ module.exports = async function autoread({ conn, m, args, reply }) {
 ┃ ☠️ Bot will now mark every
 ┃     incoming message as *READ*.
 ┃ 
-┃ 💜 Powered by: Tayyab Exploits
+┃ 💜 Powered by: ROYAL KATSIC BOT
 ╰━━━━━━━━━━━━━━━━━━`
       );
     } 
@@ -39,7 +38,7 @@ module.exports = async function autoread({ conn, m, args, reply }) {
 ┃ ☠️ Bot will no longer mark
 ┃     messages as *READ*.
 ┃ 
-┃ 💜 Powered by: Tayyab Exploits
+┃ 💜 Powered by: ROYAL KATSIC BOT
 ╰━━━━━━━━━━━━━━━━━━━╯`
       );
     } 
