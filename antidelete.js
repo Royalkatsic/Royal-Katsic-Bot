@@ -1,5 +1,5 @@
 // 📂 File: antidelete.js
-// 🛡️ Ultra Pro Max Anti-Delete System — TAYYAB HELL-MD
+// 🛡️ Ultra Pro Max Anti-Delete System — ROYAL KATSIC BOT
 
 const fs = require("fs");
 const path = require("path");
@@ -90,7 +90,7 @@ async function toggleAntidelete({ conn, m, args, reply, jid }) {
 ┃ 🔰 𝘗𝘳𝘰𝘵𝘦𝘤𝘵𝘪𝘰𝘯: *${enabled ? "ＥＮＡＢＬＥＤ ✅" : "ＤＩＳＡＢＬＥＤ ❌"}*
 ┃ 📌 𝘈𝘱𝘱𝘭𝘪𝘦𝘴 𝘵𝘰: *𝘛𝘩𝘪𝘴 𝘊𝘩𝘢𝘵*
 ┃ 
-┃ 👑 𝑺𝒆𝒄𝒖𝒓𝒆𝒅 𝒃𝒚: ✨ 𝑻𝒂𝒚𝒚𝒂𝒃 𝑴𝑫 ✨
+┃ 👑 𝑺𝒆𝒄𝒖𝒓𝒆𝒅 𝒃𝒚: ✨ ROYAL KATSIC BOT ✨
 ╰━━━━━━━━━━━━━━━━━━╯`
   );
 }
@@ -123,7 +123,7 @@ async function handleMessageRevocation(sock, msg) {
 ┃ 👤 𝘚𝘦𝘯𝘥𝘦𝘳: *${senderName}*
 ┃ 🗑️ 𝘋𝘦𝘭𝘦𝘵𝘦𝘥 𝘮𝘴𝘨 𝘳𝘦𝘤𝘰𝘷𝘦𝘳𝘦𝘥 ✨
 ┃ 
-┃ 💌 𝑺𝒆𝒄𝒖𝒓𝒆𝒅 𝒃𝒚 𝑻𝒂𝒚𝒚𝒂𝒃 𝑴𝑫
+┃ 💌 𝑺𝒆𝒄𝒖𝒓𝒆𝒅 𝒃𝒚 ROYAL KATSIC BOT
 ╰━━━━━━━━━━━━━━━━━━╯`;
 
   if (messageContent.text) {
