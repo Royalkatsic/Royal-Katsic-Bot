@@ -22,7 +22,7 @@ module.exports = async function greet({ conn, m, args, reply }) {
 ┃ 📡 New join/leave messages 
 ┃     will now be sent.
 ┃ 
-┃ 💜 Powered by: Tayyab Exploits
+┃ 💜 Powered by: ROYAL KATSIC BOT
 ╰━━━━━━━━━━━━━━━━━╯`
     );
   }
@@ -33,7 +33,7 @@ module.exports = async function greet({ conn, m, args, reply }) {
 `〔 ❌ *AUTO-GREET DISABLED* 〕
 ┃ 🧟 No more join/leave greetings.
 ┃ 
-┃ 💜 Powered by: Tayyab Exploits
+┃ 💜 Powered by: ROYAL KATSIC BOT
 ╰━━━━━━━━━━━━━━━━━━━╯`
     );
   }
