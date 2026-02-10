@@ -1,5 +1,5 @@
 // 📂 menu.js
-// 🌟 Full Stylish Global Menu — TAYYAB HELL-MD
+// 🌟 Full Stylish Global Menu — ROYAL KATSIC BOT
 
 const more = String.fromCharCode(8206)
 const readMore = more.repeat(2001)
@@ -16,11 +16,11 @@ const uptimeStr = `${hours}h ${minutes}m ${seconds}s`
 
 // Status box to show at menu start & each category start
 const statusBox = `
-╭━━━ *𝗧𝗔𝗬𝗬𝗔𝗕 𝗛𝗘𝗟𝗟-𝗠𝗗* ━━━╮
+╭━━━ *ROYAL KATSIC BOT* ━━━╮
 ┃ 🔥 𝗠𝗼𝗱𝗲: PRIVATE|FULL POWER 
-┃ 💀 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹: HELL ACTIVATED
-┃ 👑 𝗢𝘄𝗻𝗲𝗿: 𝕋𝔸𝕐𝕐𝔸𝔹 
-┃ ⚙️ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: 1.0.0 [𝗛𝗲𝗹𝗹 𝗕𝘂𝗶𝗹𝗱]
+┃ 💀 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹: ROYAL KATSIC ACTIVATED
+┃ 👑 𝗢𝘄𝗻𝗲𝗿: ROYAL KATSIC 
+┃ ⚙️ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻: 1.0.0 [ROYAL KATSIC]
 ┃ ⏳ 𝗨𝗽𝘁𝗶𝗺𝗲: ${uptimeStr}
 ┃ 📅 𝗗𝗮𝘁𝗲: ${date}
 ┃ 🕒 𝗧𝗶𝗺𝗲: ${time}
@@ -32,7 +32,7 @@ const statusBox = `
 
 global.menu = `
 ${statusBox}
-╔═❖•⊰ *𝗧𝗮𝘆𝘆𝗮𝗯 𝗛𝗲𝗹𝗹-𝗠𝗱* ⊱•❖═╗  
+╔═❖•⊰ *ROYAL KATSIC BOT* ⊱•❖═╗  
 ║୧⍤⃝💐 𝗠𝗲𝗻𝘂  
 ║୧⍤⃝💐 𝗢𝘄𝗻𝗲𝗿𝗠𝗲𝗻𝘂  
 ║୧⍤⃝💐 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗠𝗲𝗻𝘂  
@@ -330,15 +330,15 @@ ${readMore}
 ╚═════════════════╝
 
 *『𝙄𝙛 𝙮𝙤𝙪 𝙘𝙖𝙣'𝙩 𝙝𝙖𝙣𝙙𝙡𝙚 𝙩𝙝𝙚 𝙝𝙚𝙖𝙩... 𝙙𝙤𝙣'𝙩 𝙩𝙤𝙪𝙘𝙝 𝙩𝙝𝙚 𝙛𝙞𝙧𝙚. 🔥*
-*𝙎𝙞𝙜𝙣𝙞𝙣𝙜 𝙤𝙛𝙛 𝙬𝙞𝙩𝙝 𝙖 𝙗𝙪𝙧𝙣... 𝙩𝙝𝙞𝙨 𝙞𝙨 𝙃𝙀𝙇𝙇. 🚀』* 
+*𝙎𝙞𝙜𝙣𝙞𝙣𝙜 𝙤𝙛𝙛 𝙬𝙞𝙩𝙝 𝙖 𝙗𝙪𝙧𝙣... 𝙩𝙝𝙞𝙨 𝙞𝙨 ROYAL KATSIC. 🚀』* 
 ${readMore} 
-*https://github.com/TAYYAB-Exploits/TAYYAB-HellBot*
+*https://github.com/Royalkatsic/Royal-Katsic-Bot*
 
 `
 
 
 // 📂 menu.js
-// 🌟 Full Stylish Global Menus — TAYYAB HELL-MD
+// 🌟 Full Stylish Global Menus — ROYAL KATSIC BOT
 
 // ================== OWNER MENU ==================
 global.ownermenu = `
