@@ -59,7 +59,7 @@ module.exports = async function ({ conn, m, reply, args }) {
 ┃ Status: ${toggle === "on" ? "🟢 ENABLED" : "🔴 DISABLED"}
 ┃ 
 ┃ 🎧 Creating *fake recording vibes...*
-┃ 💜 Powered by: Tayyab Exploits
+┃ 💜 Powered by: ROYAL KATSIC BOT
 ╰━━━━━━━━━━━━━━━━━━━╯`
     );
   } catch (err) {
